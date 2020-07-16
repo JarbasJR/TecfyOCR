@@ -1,0 +1,19 @@
+D:\Desenv\Tecfy\TecfyOCR\GdPicture\bin\Debug\GdPicture.exe.config
+D:\Desenv\Tecfy\TecfyOCR\GdPicture\bin\Debug\GdPicture.exe
+D:\Desenv\Tecfy\TecfyOCR\GdPicture\bin\Debug\GdPicture.pdb
+D:\Desenv\Tecfy\TecfyOCR\GdPicture\bin\Debug\GdPicture.NET.dll
+D:\Desenv\Tecfy\TecfyOCR\GdPicture\bin\Debug\GdPicture.NET.PDF.dll
+D:\Desenv\Tecfy\TecfyOCR\GdPicture\obj\Debug\GdPicture.csproj.CoreCompileInputs.cache
+D:\Desenv\Tecfy\TecfyOCR\GdPicture\obj\Debug\GdPicture.csproj.CopyComplete
+D:\Desenv\Tecfy\TecfyOCR\GdPicture\obj\Debug\GdPicture.exe
+D:\Desenv\Tecfy\TecfyOCR\GdPicture\obj\Debug\GdPicture.pdb
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\GdPicture\bin\Debug\GdPicture.exe.config
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\GdPicture\bin\Debug\GdPicture.exe
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\GdPicture\bin\Debug\GdPicture.pdb
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\GdPicture\bin\Debug\GdPicture.NET.dll
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\GdPicture\bin\Debug\GdPicture.NET.PDF.dll
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\GdPicture\obj\Debug\GdPicture.csprojAssemblyReference.cache
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\GdPicture\obj\Debug\GdPicture.csproj.CoreCompileInputs.cache
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\GdPicture\obj\Debug\GdPicture.csproj.CopyComplete
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\GdPicture\obj\Debug\GdPicture.exe
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\GdPicture\obj\Debug\GdPicture.pdb

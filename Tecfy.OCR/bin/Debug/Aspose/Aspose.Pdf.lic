@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<License>
+  <Data>
+    <LicensedTo>I.R.I.S. SA</LicensedTo>
+    <LicenseType>Developer OEM</LicenseType>
+    <LicenseNote>Limited to 1 developer.</LicenseNote>
+    <OrderID>140404083010</OrderID>
+    <OEM>This is a redistributable license</OEM>
+    <Products>
+      <Product>Aspose.Pdf for .NET</Product>
+    </Products>
+    <EditionType>Enterprise</EditionType>
+    <SerialNumber>6783a6e6-50ac-4970-aee8-828a099ccd71</SerialNumber>
+    <SubscriptionExpiry>20150404</SubscriptionExpiry>
+    <LicenseVersion>2.2</LicenseVersion>
+  </Data>
+  <Signature>lHbzTRTnJQcdj587GJXaBZSETIVPf1GL9/gkxhraL/CMl0ZLlXC6VyHPu4iuvuigI1vafZVLbugn1TZWz3S0T+bxnZLbPxC7RW3AFsOKbhpOqZ0rNzqW2fKjxGWqT8ubLACfFjmXkDTFacTItoIoc0RZA+TfDp1GfgUNpjlYyoU=</Signature>
+</License>

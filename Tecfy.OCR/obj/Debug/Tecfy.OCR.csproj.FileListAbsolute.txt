@@ -1,0 +1,52 @@
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\Tecfy.OCR.exe.config
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\Tecfy.OCR.exe
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\Tecfy.OCR.pdb
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\GdPicture.exe
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\Microsoft.CSharp.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.Configuration.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.Configuration.Install.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.Data.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.Drawing.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.Management.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.Net.Http.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.ServiceProcess.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.Web.Extensions.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.Xml.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\System.Xml.Linq.dll
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\GdPicture.pdb
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\bin\Debug\GdPicture.exe.config
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\obj\Debug\Tecfy.OCR.csprojAssemblyReference.cache
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\obj\Debug\Tecfy.OCR.Installer.resources
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\obj\Debug\Tecfy.OCR.csproj.GenerateResource.cache
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\obj\Debug\Tecfy.OCR.csproj.CoreCompileInputs.cache
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\obj\Debug\Tecfy.OCR.csproj.CopyComplete
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\obj\Debug\Tecfy.OCR.exe
+D:\Desenv\Tecfy\TecfyOCR\Tecfy.OCR\obj\Debug\Tecfy.OCR.pdb
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\Tecfy.OCR.exe.config
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\Tecfy.OCR.exe
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\Tecfy.OCR.pdb
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\GdPicture.exe
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\Microsoft.CSharp.dll
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Configuration.dll
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Configuration.Install.dll
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Data.DataSetExtensions.dll
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Data.dll
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.dll
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Drawing.dll
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Management.dll
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Net.Http.dll
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.ServiceProcess.dll
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Web.Extensions.dll
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Xml.dll
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\System.Xml.Linq.dll
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\GdPicture.pdb
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\bin\Debug\GdPicture.exe.config
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\obj\Debug\Tecfy.OCR.csprojAssemblyReference.cache
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\obj\Debug\Tecfy.OCR.Installer.resources
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\obj\Debug\Tecfy.OCR.csproj.GenerateResource.cache
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\obj\Debug\Tecfy.OCR.csproj.CoreCompileInputs.cache
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\obj\Debug\Tecfy.OCR.csproj.CopyComplete
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\obj\Debug\Tecfy.OCR.exe
+C:\.. TECNODIM NEW\Versão - Fabrica\Fonte Versao nova 08_04\tecfy_partner-ocr-9b865c4c5e7e\Tecfy.OCR\obj\Debug\Tecfy.OCR.pdb
